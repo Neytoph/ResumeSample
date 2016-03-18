@@ -32,7 +32,6 @@
 
 - 手机：18611739312 （```如果是外地手机，可注明。如经常关机，要写上最优联系时间```）
 - Email：keith_0503@163.com（```虽然我觉得QQ邮箱无所谓，不过有些技术人员比较反感，建议用G```）
-- QQ/微信号：598670263（```提供一个通过网络可以联系到你的方式```）
 
 ---
 
@@ -56,20 +55,10 @@
 ### 新浪支付平台 
 我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
 
-# 开源项目和作品
-（这一段用于放置工作以外的、可证明你的能力的材料）
-
 ## 开源项目
 （对于程序员来讲，没有什么比Show me the code能有说服力了）
 
- - [STU](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
- - [WXYZ](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
-
-## 技术文章
-（挑选你写作或翻译的技术文章，好的文章可以从侧面证实你的表达和沟通能力，也帮助招聘方更了解你）
-
-- [一个产品经理眼中的云计算：前生今世和未来](http://get.jobdeer.com/706.get)
-- [来自HeroKu的HTTP API 设计指南(翻译文章)](http://get.jobdeer.com/343.get) （ ```好的翻译文章可以侧证你对英文技术文档的阅读能力```）
+ - [Neytoph博客](http://github.com/Neytoph/blog)：项目的简要说明，Star和Fork数多的可以注明
 
 # 技能清单
 （我一般主张将技能清单写入到工作经历里边去。不过很难完整，所以有这么一段也不错）
@@ -77,11 +66,12 @@
 以下均为我熟练使用的技能
 
 - Web开发：PHP/Python
-- Web框架：Ccodeigniter/Laravel
+- Web框架：Codeigniter/Laravel
 - 前端开发：HTML/CSS/Javascript
 - 前端框架：Bootstrap/jquery
-- 数据库相关：MySQL//redis/Memcache
-- 版本管理、文档和自动化部署工具：Svn/Git/Composer
+- 数据库相关：MySQL//Redis/Memcache
+- 操作系统相关：Linux/shell
+- 版本管理、文档和自动化部署工具：Svn/Git/Vim/Composer
 
 ## 参考技能关键字
 
