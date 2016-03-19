@@ -45,9 +45,9 @@
 
 以下均为我熟练使用的技能
 
-- Web开发：PHP/Python
-- Web框架：Codeigniter/Laravel
-- 前端开发：HTML/CSS/Javascript
+- Web开发：PHP / Python
+- Web框架：Codeigniter / Laravel
+- 前端开发：HTML / CSS / Javascript / AJAX
 - 前端框架：Bootstrap/jquery
 - 数据库与缓存相关：MySQL//Redis/Memcached/MangoDB
 - 操作系统相关：Linux/shell
