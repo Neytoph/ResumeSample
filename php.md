@@ -2,7 +2,7 @@
 # 联系方式
 
 - 手机：18611739312
-- Email：keith_0503@163.com（
+- Email：keith_0503@163.com
 
 ---
 
@@ -34,7 +34,9 @@
 ### 开源项目
 
 ### [Neytoph博客](http://github.com/Neytoph/blog)
+
 项目地址：http://github.com/Neytoph/blog
+
 业余时间开发的博客系统，项目亮点：支持Markdown语法、标签云、访客统计、文章备份、评论以及全文搜索功能。
 
 # 技能清单
@@ -45,7 +47,7 @@
 - Web框架：Codeigniter/Laravel
 - 前端开发：HTML/CSS/Javascript
 - 前端框架：Bootstrap/jquery
-- 数据库相关：MySQL//Redis/Memcache
+- 数据库与缓存相关：MySQL//Redis/Memcached/MangoDB
 - 操作系统相关：Linux/shell
 - 版本管理、文档和自动化部署工具：Svn/Git/Vim/Composer
 
