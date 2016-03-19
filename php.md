@@ -43,8 +43,6 @@
 
 # 技能清单
 
-以下均为我熟练使用的技能
-
 - Web开发：PHP / Python
 - Web框架：Codeigniter / Laravel
 - 前端开发：HTML / CSS / Javascript / AJAX
