@@ -8,8 +8,8 @@
 
 # 个人信息
 
- - 刘津华/男/1993 
- - 本科/北京工业大学
+ - 刘津华 / 男 / 1993 
+ - 本科 / 北京工业大学
  - 工作年限：1年
  - 技术博客：http://Neytoph.com
  - Github：http://github.com/Neytoph
@@ -48,10 +48,10 @@
 - Web开发：PHP / Python
 - Web框架：Codeigniter / Laravel
 - 前端开发：HTML / CSS / Javascript / AJAX
-- 前端框架：Bootstrap/jquery
-- 数据库与缓存相关：MySQL//Redis/Memcached/MangoDB
-- 操作系统相关：Linux/shell
-- 版本管理、文档和自动化部署工具：Svn/Git/Vim/Composer
+- 前端框架：Bootstrap / jquery
+- 数据库与缓存相关：MySQL / Redis / Memcached / MangoDB
+- 操作系统相关：Linux / shell
+- 版本管理、文档和自动化部署工具：Svn / Git / Vim / Composer
 
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
